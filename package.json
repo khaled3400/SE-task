@@ -1,0 +1,14 @@
+{
+  "name": "se-task",
+  "version": "1.0.0",
+  "description": "A Software Engneering 2nd Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eslam magdy",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1"
+  }
+}
